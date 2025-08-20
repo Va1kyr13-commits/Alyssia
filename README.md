@@ -5,7 +5,7 @@
 It automates static analysis by:
 - Checking for required dependencies.
 - Decompiling APKs using `jadx`.
-- Searching for potential security misconfigurations and sensitive references in the decompiled code (e.g., `getDeviceId`, `Runtime.exec`, `SQLiteDatabase`, `Log.d`, `BroadcastReceiver`, etc.).
+- Searching for potential security misconfigurations and sensitive references in the decompiled code.
 - Printing findings live in the terminal and saving them to a `findings.txt` file.
 - Preparing the report by storing the output in `alyssia_report.txt` file
 
@@ -19,7 +19,7 @@ It automates static analysis by:
 
 If the requirements are not installed the script will install it automatically.
 
-## Note
+## ⚠️ Note
 
 - while giving the directory of the .apk file, please give it from the root diretory. If the .apk location is given from the current working directory, you may face some issues while running the script.
 
@@ -53,7 +53,7 @@ chmod +x alyssia.sh
 
 ## 🔍 Example
 ```bash
-./alyssia.sh -d ../../sample.apk
+./alyssia.sh -d /home/kali/sample.apk
 ```
 
 ### Example Output
