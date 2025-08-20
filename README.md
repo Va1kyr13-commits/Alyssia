@@ -1,6 +1,6 @@
 # Alyssia - Android Application Security Analysis Tool
 
-- Authors: Valkyrie & Profon3
+- Authors: Va1kyr13 & Profon3
 
 ## 📌 Overview
 **Alyssia** is a bash-based tool designed to help security engineers and researchers analyze Android applications.  
