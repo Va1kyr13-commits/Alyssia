@@ -26,7 +26,7 @@ print_section() {
 }
 echo -e "${BRIGHTCYAN}$BANNER${NC}"
 echo -e "${GREEN}Android application Security Analysis tool${NC}"
-echo -e "${YELLOW}- Creators: Profon3 & Valkyr13${NC}"
+echo -e "${YELLOW}- Creators: Profon3 & Va1kyr13${NC}"
 
 print_section "Checking whether the required tools are installed"
 if command -v jadx &> /dev/null; then
