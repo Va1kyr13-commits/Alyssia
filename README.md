@@ -188,6 +188,10 @@ End of Report
 
 ```
 
+## 💭 Feedbacks & Suggestions
+
+If you have any feedbacks or Suggestions, please let us know in our socials.
+
 ## 🛡️ Disclaimer
 This tool is intended **for educational and research purposes only**.  
 Do not use it against applications without proper authorization. The authors are not responsible for misuse.
